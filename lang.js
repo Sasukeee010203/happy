@@ -148,7 +148,7 @@ function appendToDisplay(value) {
             nextLine();
         }
         function checkPassword() {
-            if (display.value === '280204') {
+            if (display.value === '28022004') {
                 calculatorScreen.style.display = 'none';
                 birthdayScreen.style.display = 'block';
                 
